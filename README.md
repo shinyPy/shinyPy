@@ -1,4 +1,4 @@
-![fc13532303cfd8f4f32c1c3ed68aa1f2](https://github.com/shinyPy/shinyPy/assets/71328419/db7cb1e9-9a46-4611-9b87-0ac8e97a3209)
+![fc13532303cfd8f4f32c1c3ed68aa1f2 1](https://github.com/shinyPy/shinyPy/assets/71328419/22b65ad6-f969-4790-9cb4-bdb88eee88a6)
 
 <h1 align="center">Hi 👋, I'm Shiniya</h1>
 <h3 align="center">An average web developer from Indonesia</h3>
