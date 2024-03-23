@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinypy&label=Profile%20views&color=0e75b6&style=flat" alt="shinypy" /> </p>
 
-- 🔭 My completed project [TEFAREN](https://fe-tefaren-v2.vercel.app/)
+-  My completed project [TEFAREN](https://fe-tefaren-v2.vercel.app/)
 
 
 
