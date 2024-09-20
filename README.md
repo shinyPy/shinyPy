@@ -6,5 +6,5 @@
 
 <img src="https://discord.c99.nl/widget/theme-2/656757505426325527.png"/>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyPy"/>
 
