@@ -3,6 +3,7 @@
 ## About me
 - use linux
 - dislike grass
+- i like tinkering with software
 
 ##
 
