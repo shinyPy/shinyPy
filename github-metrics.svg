@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1305" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1238" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1190,7 +1190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    96.2k added, 9.04k removed
+                                    787k added, 21.9k removed
                                 </div>
                             </section>
                             <section>
@@ -1441,6 +1441,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">master</span>
+                                        in
+                                        <span class="repo">shinyPy/experiment</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1512,90 +1528,6 @@
 - improve context handling in chunk processing
 - enhance chunk estimation to include EPUB files
 - add dependency for ebooklib
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shinyPy/TransPhrase</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b77a2c</div>
-                                        <div class="message">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            refactor(core): modernize file processing and chunking
-
-- Remove the `FileProcessor` class and integrate its functionalities into the `MainProcessor`.
-- Introduce a `ChunkProcessor` class to manage chunking and translation tasks.
-- Implement HTML novel format detection and extraction for improved processing of web novels.
-- Enhance chunking with improved language-specific sentence boundary detection.
-- Improve the joining of translated chunks by removing overlapping content.
-- Implement batch processing optimization in `_process_text_file` for improved performance.
-- Enhance source language detection with script analysis for better accuracy.
-- Modernize the codebase with type annotations and improved code structure.
-
-Note that the HTML translation is currently experimental and very unstable!
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#866fc77</div>
-                                        <div class="message">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
-                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
-                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
-                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
-                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
-                                            </svg>
-                                            fix(core): remove series context feature
-
-- remove series context from core logic and UI
-- remove series context database and CLI
-- remove series context related code
-- remove unused imports
-- update tests to reflect changes
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23a45ad</div>
-                                        <div class="message">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
-                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
-                                            </svg>
-                                            build(ci): set up CI workflows for code quality and building
-
-- add CI workflow for testing on multiple Python versions, linting, and coverage
-- add code quality workflow to check formatting, line length, and code quality
-- add pre-commit configuration for consistent code quality
-- add Makefile for common development tasks
-- add Docker configuration for containerized development
-- enhance .gitignore to exclude more development artifacts
-- add development dependencies to pyproject.toml
-- create CODE_QUALITY.md, CODE_QUALITY_IMPROVEMENTS.md, FIXING_LONG_LINES.md docs
-- improve error handling and logging
-- enhance README with installation, usage instructions, and developer documentation
                                         </div>
                                     </div>
                                 </div>
