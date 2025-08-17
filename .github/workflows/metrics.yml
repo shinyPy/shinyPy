@@ -2,9 +2,9 @@
 name: Metrics
 
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (once per day at 00:00 UTC)
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   # Manual trigger and on commit to "latest" branch
   workflow_dispatch:
   push:
